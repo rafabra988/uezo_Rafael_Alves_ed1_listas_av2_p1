@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1620375635 source:c:\users\roxan\documents\ca\atividade 2 rafael alves av2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"funcoes.h"
+
+1620251541 c:\users\roxan\documents\ca\atividade 2 rafael alves av2\funcoes.h
+
+1620251338 source:c:\users\roxan\documents\ca\atividade 2 rafael alves av2\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"funcoes.h"
+
