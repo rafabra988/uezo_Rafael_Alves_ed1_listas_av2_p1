@@ -9,26 +9,25 @@ int main()
 {
     setlocale(LC_ALL,"portuguese");
 
-
  /*__________________________________________exe1__________________________________*/
-//    int resp, v;
-//    Elemento* lst;
-//
-//    lst = lst_cria();
-//
-//    printf("quanta posiçôes tera na lista?\n");
-//   scanf("%d",&resp);
-//
-//    for(int i=0;i<resp;i++){
-//        printf("qual o valor do %dº elemento?",i+1);
-//        scanf("%d",&v);
-//       lst = lst_insere_ordenado(lst, v);
-//    }
-//
-//    removdup(lst);
-//
-//    lst_imprime(lst);
-//    lst_libera(lst);
+    int resp, v;
+    Elemento* lst;
+
+    lst = lst_cria();
+
+    printf("quanta posições tera na lista?\n");
+   scanf("%d",&resp);
+
+    for(int i=0;i<resp;i++){
+        printf("qual o valor do %dº elemento?",i+1);
+        scanf("%d",&v);
+       lst = lst_insere_ordenado(lst, v);
+    }
+
+    removdup(lst);
+
+    lst_imprime(lst);
+    lst_libera(lst);
 
 /*__________________________________________exe2__________________________________*/
 
@@ -38,19 +37,19 @@ int main()
 //
 //    lst = lst_cria();
 //
-//    printf("quanta posi��es tera na lista?\n");
+//    printf("quanta posições tera na lista?\n");
 //    scanf("%d",&resp);
 //
 //    for(int i=0;i<resp;i++){
-//        printf("qual o valor do %d� elemento?",i+1);
+//        printf("qual o valor do %dº elemento?",i+1);
 //        scanf("%d",&v);
 //        lst = lst_insere_ordenado(lst, v);
 //    }
 //
-//        printf("gost�ria de pular quantos valores?\n");
+//        printf("gostária de pular quantos valores?\n");
 //        scanf("%d",&valor1);
 //
-//        printf("gost�ria de apagar quantos valores?");
+//        printf("gostária de apagar quantos valores?");
 //        scanf("%d",&valor2);
 //
 //
@@ -65,11 +64,11 @@ int main()
 //
 //    lst = lst_cria();
 //
-//    printf("quanta posi��es tera na lista?\n");
+//    printf("quanta posições tera na lista?\n");
 //    scanf("%d",&resp);
 //
 //    for(int i=0;i<resp;i++){
-//        printf("qual o valor do %d� elemento?",i+1);
+//        printf("qual o valor do %dº elemento?",i+1);
 //        scanf("%d",&v);
 //        lst = lst_insere(lst, v);
 //    }
@@ -85,18 +84,18 @@ int main()
 //
 //    lst = lst2_cria();
 //
-//    printf("quanta posi��es tera na lista?\n");
+//    printf("quanta posições tera na lista?\n");
 //    scanf("%d",&resp);
 //
 //    for(int i=0;i<resp;i++){
-//        printf("qual o valor do %d� elemento?",i+1);
+//        printf("qual o valor do %dº elemento?",i+1);
 //        scanf("%d",&v);
 //        lst = lst2_insere(lst,v);
 //    }
 //
 //    int temp=lst2_imprime(lst,resp);
 //
-//    printf("o n�mero retornado foi %d",temp);
+//    printf("o número retornado foi %d",temp);
 
 /*__________________________________________exe5__________________________________*/
 
@@ -108,20 +107,20 @@ int main()
 //        lst2 = lst_cria();
 //        lst3 = lst_cria();
 //
-//        printf("quanta posi��es tera na primeira lista?\n");
+//        printf("quanta posições tera na primeira lista?\n");
 //        scanf("%d",&resp);
 //
 //        for(int i=0;i<resp;i++){
-//            printf("qual o valor do %d� elemento?",i+1);
+//            printf("qual o valor do %dº elemento?",i+1);
 //            scanf("%d",&v);
 //            lst = lst_insere_ordenado(lst, v);
 //        }
 //
-//        printf("\nquanta posi��es tera na segunda lista?\n");
+//        printf("\nquanta posições tera na segunda lista?\n");
 //        scanf("%d",&resp);
 //
 //        for(int i=0;i<resp;i++){
-//            printf("qual o valor do %d� elemento?",i+1);
+//            printf("qual o valor do %dº elemento?",i+1);
 //            scanf("%d",&v);
 //            lst2 = lst_insere_ordenado(lst2,v);
 //        }
@@ -148,11 +147,11 @@ int main()
 //
 //        lst = lst_cria();
 //
-//        printf("quanta posi��es tera na primeira lista?\n");
+//        printf("quanta posições tera na primeira lista?\n");
 //        scanf("%d",&resp);
 //
 //        for(int i=0;i<resp;i++){
-//            printf("qual o valor do %d� elemento?",i+1);
+//            printf("qual o valor do %dº elemento?",i+1);
 //            scanf("%d",&v);
 //            lst = lst_insere(lst, v);
 //        }

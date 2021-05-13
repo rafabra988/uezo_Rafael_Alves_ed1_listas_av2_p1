@@ -24,3 +24,10 @@
 	<locale.h>
 	<time.h>
 
+1620937520 source:c:\users\roxan\documents\ca\atividade 2 rafael alves av2 p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"headerv2.h"
+
