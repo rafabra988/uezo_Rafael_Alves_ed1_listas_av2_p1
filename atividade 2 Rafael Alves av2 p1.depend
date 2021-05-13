@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1620935063 source:c:\users\roxan\desktop\atividade 2 rafael alves av2 p1\funcv2.c
+	"headerv2.h"
+
+1620935020 c:\users\roxan\desktop\atividade 2 rafael alves av2 p1\headerv2.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
+1620935176 source:c:\users\roxan\desktop\atividade 2 rafael alves av2 p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"headerv2.h"
+
+1620935063 source:c:\users\roxan\documents\ca\atividade 2 rafael alves av2 p1\funcv2.c
+	"headerv2.h"
+
+1620935020 c:\users\roxan\documents\ca\atividade 2 rafael alves av2 p1\headerv2.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
